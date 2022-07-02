@@ -2,6 +2,6 @@
 
 - This is my  first restaurant
 
-# The wireframe
+- The wireframe
 
-![alt text](./assets/gitHub%20restaurant3.PNG)
+![wireframe imge](./assets/gitHub%20restaurant3.PNG)
