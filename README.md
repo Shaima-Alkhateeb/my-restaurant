@@ -22,7 +22,7 @@
 4. Green goddess salad
 5. Salmon salad
 
------
+----
 | The Main:  | Pic |
 | ----------- | ----------- |
 | Chicken Taco Bowls | ![Chicken Taco Bowls](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2019%2F08%2F26232431%2F3748926.jpg) |
@@ -31,7 +31,8 @@
 | Eggplant | ![Eggplant](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2016%2F11%2F27113052%2F58415311.jpg) |
 | Portobello "Philly Cheese Steak" Sandwich | ![Portobello "Philly Cheese Steak" Sandwich](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2019%2F08%2F27045103%2F3729107.jpg) |
 
------
+------
+
 | The Salads:  | Pic |
 | ----------- | ----------- |
 | Rainbow salad | ![Rainbow salad](https://economymagazin.com/wp-content/uploads/2021/03/rainbow-salad-power-bowl-1.jpg) |
