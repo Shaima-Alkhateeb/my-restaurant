@@ -40,3 +40,12 @@
 | Salmon salad | ![Salmon salad](https://static.onecms.io/wp-content/uploads/sites/44/2019/08/13/6956376.jpg) |
 | Green goddess salad | ![Green goddess salad](https://zestfulkitchen.com/wp-content/uploads/2021/04/green-goddess-salad_for-web-4-736x809.jpg) |
 
+# The wireframe
+
+![wireframe imge](./assets/wireframe_healthyfood1.PNG)
+
+![wireframe imge](./assets/wireframe_healthyfood2.PNG)
+
+![wireframe imge](./assets/wireframe_healthyfood3.PNG)
+
+![wireframe imge](./assets/wireframe_healthyfood4.PNG)
