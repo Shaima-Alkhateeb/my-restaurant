@@ -1,5 +1,6 @@
 # my-restaurant
 
+
 This is my restaurant
 
 ## 👋Welcom to gitHup restaurant
@@ -42,3 +43,10 @@ This is my restaurant
 1. Cloud juice
 2. VCS juice
 3. README juice 
+
+- This is my  first restaurant
+
+- The wireframe
+
+![wireframe imge](./assets/gitHub%20restaurant3.PNG)
+
