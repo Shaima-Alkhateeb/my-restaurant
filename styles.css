@@ -1,0 +1,85 @@
+body {
+    margin: 0px;
+    font-family: 'Gentium Book Plus', serif;
+    color: #854d27;
+}
+
+header {
+    background-color: #f4c95d;
+}
+
+.topnav {
+    float: right;
+    margin: -25px 15px;
+}
+
+.topnav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #854d27;
+    font-size: 20px;
+}
+
+.mainPage {
+    margin-left: 35px;
+    font-size: 20px;
+} 
+
+ h1{
+    font-size: 50px;
+}
+
+.mainPage img {
+    float: right;
+}
+
+.popularPage , .reviewPage, .orderPage, .contactPage{
+    text-align: center;
+}
+
+.popularPage img{
+   width: 350px;
+   height: 200px;
+   margin-top: 50px;
+   margin-left: 20px;
+    
+}
+.reviewPage img {
+    margin: 40px 0px -15px 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.reviewPage input {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    padding-right: 330px;
+}
+
+.orderPage input {
+    margin-bottom: 40px;
+    margin-left: 20px;
+    padding-right: 220px;
+}
+
+.contactPage input {
+    margin-bottom: 40px;
+    margin-left: 20px;
+    padding-right: 220px;
+}
+
+.contactPage img {
+    width: 50px;
+    height: 50px;
+    margin: 11px 59px;
+}
+
+footer {
+    margin-top: 70px;
+    background-color: #f4c95d;
+    text-align: right;
+}
+
+footer p {
+    margin-right: 20px;
+}
